@@ -10,4 +10,4 @@ This folder contains detailed step-by-step write-ups for each phase of the homel
 - Phase 5: Monitoring, detection, and response  
 
 ## Purpose
-Provide structured documentation that tracks the evolution of the lab through major milestones.
+documentation each phase i go thru while building this homelab starting from Phase 1A and onward.

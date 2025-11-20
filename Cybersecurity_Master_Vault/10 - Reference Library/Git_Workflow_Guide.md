@@ -2,7 +2,7 @@
 
 This page documents how I manage version control and syncing between my local Obsidian Vault and my GitHub repository. The goal is to keep my cybersecurity notes, homelab documentation, and project logs versioned, backed up, and accessible across devices.
 
-This Git workflow emphasizes clarity, reliability, and clean commit history — all important habits for technical roles, especially in cybersecurity and DevOps environments.
+
 
 ---
 
@@ -16,12 +16,12 @@ I use Git for:
     
 - Syncing notes between devices without relying on cloud services
     
-- Maintaining a Portfolio-quality record of my homelab and security projects
+- Maintaining a Portfolio-quality record of my homelab, security projects, and other type of tech project I plan to do in the future.
     
 - Practicing real-world version control workflows used in security, sysadmin, and cloud engineering roles
     
 
-This setup mirrors how real SOCs, DevOps teams, and security engineers track playbooks and documentation.
+
 
 ---
 
@@ -91,7 +91,7 @@ Why this matters:
 
 ---
 
-# **5. Handling Conflicts (Rare, But Possible)**
+# **5. Handling Conflicts 
 
 If I edit the _same note_ on two different devices before syncing, Git will warn me.
 
@@ -106,7 +106,7 @@ To fix:
 4. Commit & Sync again.
     
 
-This is identical to conflict resolution in enterprise environments.
+
 
 ---
 
@@ -165,9 +165,10 @@ I follow this pattern:
 - **After updating reference notes**
     
 - **Before shutting down for the day**
+- or any relevant note for the homelab.
     
 
-This ensures that if something happens (like VM corruption), I always have a clean backup.
+update my changes with my notes. want to keep everything synced up and have full control of what can be saved or not be saved, when to save it.
 
 ---
 
@@ -196,7 +197,7 @@ This includes:
 - Scripts and cheat sheets
     
 
-Over time, this forms a **professional-grade cybersecurity knowledge base**.
+
 
 ---
 
@@ -215,7 +216,7 @@ Git does not sync:
 - Anything ignored via `.gitignore`
     
 
-This keeps the repo lightweight and safe to use.
+
 
 ---
 
@@ -243,7 +244,7 @@ Obsidian Git automates Git, but knowing these commands helps:
 
 `git pull`
 
-These appear often in real-world cybersecurity and DevOps workflows.
+
 
 ---
 
@@ -262,4 +263,3 @@ GitHub acts as:
 - Syncing mechanism
     
 
-Even if my laptop fails, my entire cybersecurity knowledge base is safe.

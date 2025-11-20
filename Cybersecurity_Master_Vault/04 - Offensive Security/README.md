@@ -1,6 +1,6 @@
 # Offensive Security
 
-This folder contains tools, commands, methodologies, and notes related to offensive operations within the homelab.
+This folder contains tools, commands, theories and notes related to offensive operations within the homelab.
 
 ## Contents
 - Enumeration and scanning techniques  
@@ -10,4 +10,4 @@ This folder contains tools, commands, methodologies, and notes related to offens
 - Red team methodology  
 
 ## Purpose
-Support offensive security learning through structured research, walkthroughs, and controlled testing.
+develop hands on offensive skills, reminder this is my internal virtual homelab ran on VirtualBox as Kali VM with a NAT Network and Win 11 VM Host-Only (Connected to Kali VM only, does not have internet access or any connection to the outside world)

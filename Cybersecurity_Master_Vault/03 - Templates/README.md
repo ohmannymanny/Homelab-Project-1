@@ -10,4 +10,4 @@ This folder stores reusable templates for documentation, logging, and analysis a
 - Pentest notes format  
 
 ## Purpose
-Standardize workflows and maintain consistency across all lab documentation.
+trying to improve the workflow and documentation, templates can be efficient if used correctly.

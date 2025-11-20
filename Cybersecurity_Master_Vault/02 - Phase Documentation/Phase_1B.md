@@ -3,7 +3,7 @@
 **Objective:**  
 The goal of Phase 1B was to simulate an "attacker" inside an internal network (LAN)) and learn how hosts are discovered, enumerated, and accessed using Kali Linux on the VM using VirtualBox.
 
-## **Summary of Phase 1B Learning Objectives Achieved**
+### Completed Tasks
 
 ###  Internal host discovery
 
@@ -117,5 +117,5 @@ Results:
 **This completes the attacker foothold simulation.**
 
 **Real-World Meaning:**  
-This simulates gaining remote
+This simulates gaining remote access to the "target" within a LAN.
 ![[Pasted image 20251119195523.png]]

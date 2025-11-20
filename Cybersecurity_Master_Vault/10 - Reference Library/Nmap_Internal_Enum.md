@@ -1,7 +1,7 @@
 # Nmap Internal Network Enumeration Cheat Sheet
 
 ## Host Discovery
-sudo arp-scan --interface=eth1 192.168.56.0/24
+sudo arp-scan --interface=eth1 192.168.X.X/24
 
 ## Basic Port Scan
 sudo nmap <IP>
