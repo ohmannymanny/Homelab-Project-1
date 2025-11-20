@@ -75,8 +75,8 @@ Anything listed as SIEM, honeypot, malware analysis, or cloud is **planned work*
 
 Current known addressing in the lab:
 
-- Kali Linux VM: `192.168.56.104/24` (Host-Only interface)
-- Windows 11 VM: `192.168.56.105/24` (Host-Only interface)
+- Kali Linux VM: `192.168.X.X/24` (Host-Only interface)
+- Windows 11 VM: `192.168.X.Y/24` (Host-Only interface)
 
 Kali has internet connectivity via a NAT adapter. The Windows VM currently uses Host-Only networking for lab purposes; internet access on that VM has not been configured yet.
 
