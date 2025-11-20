@@ -133,7 +133,7 @@ Current state:
   - Kali can successfully:
     - Ping the Windows VM
     - Discover the Windows VM over the Host-Only network
-    - RDP into Windows using `xfreerdp3 /v:192.168.56.105`
+    - RDP into Windows using `xfreerdp3 /v:192.168.X.Y`
 
 
 ---
@@ -147,7 +147,7 @@ Current state:
 - Installed as a VirtualBox VM using a Windows 11 evaluation ISO.
 - VirtualBox Guest Additions installed for better integration.
 - Connected to the Host-Only network:
-  - IP: `192.168.56.105/24`
+  - IP: `192.168.X.Y/24`
 - Windows Defender Firewall enabled.
 - Inbound ICMPv4 allowed (to permit ping from Kali) via a specific inbound rule.
 - Remote Desktop enabled and tested:
