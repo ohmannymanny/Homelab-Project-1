@@ -8,6 +8,8 @@ First love is music, so if you are interested in checking out what I have made:
 https://soundcloud.com/evencemusic
 Second love is computers, always been around them, always spent way too much time on them but this time its more serious so here I am... going to be spending even more time on them cause I love it. In this repo it combines a small amount of personal relevance but mostly focused achieving milestones and goals through out the journey and building a homelab with the plan of potentially scaling up over time. 
 Using Profressor Messer as a resource and learning source material,Friends, IT Discord servers, Google, AI, Books, Work Expierence. 
+Recently been playing Tower Networking Inc. game on Steam. been loving it so far, would recommend.
+Hackthebox: ohmannymanny (Currenly Private, however have HTB Academy, Lab Monthly subs)
 
 
 
