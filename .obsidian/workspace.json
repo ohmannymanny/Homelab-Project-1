@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "10 - Reference Library/README.md",
                 "mode": "source",
                 "source": false
               },
@@ -197,6 +197,7 @@
   "active": "6a892b54fb180c8c",
   "lastOpenFiles": [
     "README.md",
+    "10 - Reference Library/README.md",
     "Cybersecurity_Master_Vault/10 - Reference Library/RDP_Remote_Access.md",
     "06 - SOC & SIEM/README.md",
     "06 - SOC & SIEM",
@@ -231,7 +232,6 @@
     "07 - Advanced Blue Team/README.md",
     "Cybersecurity-Master-Vault/README.md",
     "Cybersecurity_Master_Vault/10 - Reference Library/Nmap_Internal_Enum.md",
-    "Cybersecurity_Master_Vault/10 - Reference Library/Linux_Commands.md",
     "Pasted image 20251119195523.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
