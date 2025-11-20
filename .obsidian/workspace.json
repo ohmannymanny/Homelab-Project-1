@@ -11,12 +11,14 @@
             "id": "45d1843d2a06b1d1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "split-diff-view",
               "state": {
-                "file": "Pasted image 20251119195523.png"
+                "aFile": "Cybersecurity-Master-Vault",
+                "bFile": "Cybersecurity-Master-Vault",
+                "aRef": ""
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251119195523"
+              "icon": "diff",
+              "title": "Diff: Cybersecurity-Master-Vault"
             }
           }
         ]
@@ -92,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20251119195523.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20251119195523"
+              "title": "Backlinks"
             }
           },
           {
@@ -111,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20251119195523.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20251119195523"
+              "title": "Outgoing links"
             }
           },
           {
@@ -154,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20251119195523.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20251119195523"
+              "title": "Outline"
             }
           },
           {
@@ -192,11 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "379845380e448620",
+  "active": "45d1843d2a06b1d1",
   "lastOpenFiles": [
+    "Pasted image 20251119195523.png",
     "Cybersecurity_Master_Vault/02 - Phase Documentation/Phase_1B.md",
-    "Pasted image 20251119195523.png",
-    "Pasted image 20251119195523.png",
     "Cybersecurity_Master_Vault/02 - Phase Documentation/Phase_1A.md",
     "Cybersecurity-Master-Vault/README.md",
     "Cybersecurity_Master_Vault/00 - Roadmap (Baseline)/Baseline_Roadmap.md",
