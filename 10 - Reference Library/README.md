@@ -10,4 +10,4 @@ This folder contains guides, and external references for quick lookup.
 - External links and documentation  
 
 ## Purpose
-Serve as a centralized knowledge base for the homelab and cybersecurity study.2
+Serve as a centralized knowledge base for the homelab and cybersecurity study. TEST
