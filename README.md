@@ -1,4 +1,4 @@
-# Cybersecurity Master Homelab  
+# Homelab  
 
 Documenting my hands-on journey from **Help Desk → SysAdmin → Cybersecurity Analyst → Security Engineer → Cloud Security**.
 
