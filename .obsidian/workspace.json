@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c9f46f3ce5666722",
+        "id": "119998ea438e28f4",
         "type": "tabs",
         "children": [
           {
-            "id": "45d1843d2a06b1d1",
+            "id": "6a892b54fb180c8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -194,12 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "45d1843d2a06b1d1",
+  "active": "6a892b54fb180c8c",
   "lastOpenFiles": [
+    "Cybersecurity-Master-Vault/README.md",
     "Pasted image 20251119195523.png",
     "Cybersecurity_Master_Vault/02 - Phase Documentation/Phase_1B.md",
     "Cybersecurity_Master_Vault/02 - Phase Documentation/Phase_1A.md",
-    "Cybersecurity-Master-Vault/README.md",
     "Cybersecurity_Master_Vault/00 - Roadmap (Baseline)/Baseline_Roadmap.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
