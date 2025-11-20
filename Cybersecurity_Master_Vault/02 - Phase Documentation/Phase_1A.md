@@ -2,7 +2,7 @@
 
 ### Objective
 
-The goal of Phase 1A was to establish a functional attacker-victim environment in a safe, isolated network. This environment forms the foundation for all future cybersecurity practice, including offensive operations, defensive monitoring, malware testing, and Active Directory development.
+The goal of Phase 1A was to establish a functional attacker-victim environment in a safe, isolated network. This environment forms the foundation for all future cybersecurity practice, including offensive operations, defensive monitoring, malware testing, and Active Directory development, basically the foundation.
 
 ### Completed Tasks
 

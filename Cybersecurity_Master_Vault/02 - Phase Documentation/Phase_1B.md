@@ -1,9 +1,7 @@
 ## **Phase 1B — Internal Network Discovery, Enumeration, and Remote Access**
 
 **Objective:**  
-Simulate an attacker inside an internal corporate network (example: hospital, LAN) and learn how hosts are discovered, enumerated, and accessed using Kali Linux.
-
-This phase covers the offensive side of internal network security — the same techniques used by penetration testers and real-world attackers, but safely isolated inside my homelab.
+The goal of Phase 1B was to simulate an "attacker" inside an internal network (LAN)) and learn how hosts are discovered, enumerated, and accessed using Kali Linux on the VM using VirtualBox.
 
 ## **Summary of Phase 1B Learning Objectives Achieved**
 

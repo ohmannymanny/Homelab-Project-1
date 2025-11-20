@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cybersecurity-Master-Vault/README.md",
+                "file": "Cybersecurity_Master_Vault/00 - Roadmap (Baseline)/Career_Path.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Career_Path"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity-Master-Vault/README.md",
+                "file": "Cybersecurity_Master_Vault/00 - Roadmap (Baseline)/Career_Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Career_Path"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity-Master-Vault/README.md",
+                "file": "Cybersecurity_Master_Vault/00 - Roadmap (Baseline)/Career_Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Career_Path"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity-Master-Vault/README.md",
+                "file": "Cybersecurity_Master_Vault/00 - Roadmap (Baseline)/Career_Path.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Career_Path"
             }
           },
           {
@@ -196,11 +196,19 @@
   },
   "active": "6a892b54fb180c8c",
   "lastOpenFiles": [
-    "Cybersecurity-Master-Vault/README.md",
-    "Pasted image 20251119195523.png",
+    "Cybersecurity_Master_Vault/00 - Roadmap (Baseline)/Baseline_Roadmap.md",
     "Cybersecurity_Master_Vault/02 - Phase Documentation/Phase_1B.md",
     "Cybersecurity_Master_Vault/02 - Phase Documentation/Phase_1A.md",
-    "Cybersecurity_Master_Vault/00 - Roadmap (Baseline)/Baseline_Roadmap.md",
+    "Cybersecurity_Master_Vault/02 - Phase Documentation/Phase_1C.md",
+    "Cybersecurity_Master_Vault/02 - Phase Documentation/README.md",
+    "Cybersecurity_Master_Vault/01 - Homelab Setup/README.md",
+    "Cybersecurity_Master_Vault/01 - Homelab Setup/Kali_VM_Setup.md",
+    "Cybersecurity_Master_Vault/00 - Roadmap (Baseline)/Career_Path.md",
+    "Cybersecurity_Master_Vault/00 - Roadmap (Baseline)/README.md",
+    "Cybersecurity_Master_Vault/04 - Offensive Security/README.md",
+    "Cybersecurity_Master_Vault/03 - Templates/README.md",
+    "Cybersecurity-Master-Vault/README.md",
+    "Pasted image 20251119195523.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "2025-11-19.md",
@@ -209,10 +217,7 @@
     "Cybersecurity_Master_Vault/10 - Reference Library/Linux_Commands.md",
     "Cybersecurity_Master_Vault/10 - Reference Library/Git_Workflow_Guide.md",
     "Cybersecurity_Master_Vault/09 - Daily Logs/README.md",
-    "Cybersecurity_Master_Vault/02 - Phase Documentation/Phase_1C.md",
     "Cybersecurity_Master_Vault/01 - Homelab Setup/Windows11_VM_Setup.md",
-    "Cybersecurity_Master_Vault/01 - Homelab Setup/Kali_VM_Setup.md",
-    "Cybersecurity_Master_Vault/00 - Roadmap (Baseline)/Career_Path.md",
     "Cybersecurity-Master-Vault",
     "Cybersecurity_Master_Vault/10 - Reference Library/Git_Workflow_Guide",
     "Cybersecurity_Master_Vault/02 - Phase Documentation/Phase_1A.md.md",
