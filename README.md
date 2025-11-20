@@ -1,12 +1,20 @@
 # Cybersecurity Master Homelab  
+
 Documenting my hands-on journey from **Help Desk → SysAdmin → Cybersecurity Analyst → Security Engineer → Cloud Security**.
 
-This repository contains my structured notes, research, walkthroughs, configurations, and documentation for building a full **enterprise-style cybersecurity homelab**. Everything here is designed to build real, practical skill—not just theory.
+This repository contains my structured notes, research, walkthroughs, configurations, and documentation for building a full **enterprise-style cybersecurity homelab**. Everything here is designed to build real, practical skill.
+This is my journey/path and making it public... who knows but here to learn, explore, build, and collaborate.
+First love is music, so if you are interested in checking out what I have made:
+https://soundcloud.com/evencemusic
+Second love is computers, always been around them, always spent way too much time on them but this time its more serious so here I am... going to be spending even more time on them cause I love it. In this repo it combines a small amount of personal relevance but mostly focused achieving milestones and goals through out the journey and building a homelab with the plan of potentially scaling up over time. 
+Using Profressor Messer as a resource and learning source material,Friends, IT Discord servers, Google, AI, Books, Work Expierence. 
+
+
 
 ---
 
 ##  Current Lab Status
-**Phase 1A–1C completed:**
+**Phase 1A–1B completed:**
 - VirtualBox hypervisor installed and configured
 - Windows 11 VM fully set up
 - Kali Linux VM fully set up
@@ -28,7 +36,6 @@ This environment simulates an enterprise-level internal network so I can:
 - Practice malware analysis in isolated VMs
 - Document all work using Git-driven version control
 
-This is the same workflow that cybersecurity analysts, sysadmins, and penetration testers use in real organizations.
 
 ---
 
