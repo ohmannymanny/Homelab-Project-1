@@ -4,7 +4,7 @@ A personal reference of essential Linux and offensive security commands.
 
 ---
 
-## 🔹 Networking / Recon
+##  Networking / Recon
 - `ip a` — show interfaces
 - `ip route` — show routing table
 - `ping <IP>` — test connectivity
@@ -13,7 +13,7 @@ A personal reference of essential Linux and offensive security commands.
 
 ---
 
-## 🔹 Enumeration Tools
+##  Enumeration Tools
 - `nmap -sV <target>`
 - `nmap -p- --stats-every 10s <target>`
 - `nc -nv <target> <port>` — basic TCP connection
@@ -21,7 +21,7 @@ A personal reference of essential Linux and offensive security commands.
 
 ---
 
-## 🔹 System Information
+##  System Information
 - `uname -a`
 - `cat /etc/os-release`
 - `df -h`
@@ -29,14 +29,14 @@ A personal reference of essential Linux and offensive security commands.
 
 ---
 
-## 🔹 Permissions / Privilege Escalation
+##  Permissions / Privilege Escalation
 - `sudo -l` — list allowed sudo commands
 - `find / -perm -4000 -type f 2>/dev/null` — SUID binaries
 - `getcap -r /` — capabilities
 
 ---
 
-## 🔹 File Operations
+##  File Operations
 - `ls -la`
 - `cp`, `mv`, `rm -rf`
 - `scp <file> user@host:/path`

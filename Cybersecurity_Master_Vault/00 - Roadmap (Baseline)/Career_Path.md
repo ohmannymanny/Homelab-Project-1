@@ -1,7 +1,7 @@
 # Career Path
 
-## 🎯 CURRENT ROLE
-Help Desk Analyst (Hospital IT Service Desk)
+##  CURRENT ROLE
+Help Desk Analyst
 
 ### Daily experience includes:
 - Active Directory account management
@@ -11,7 +11,7 @@ Help Desk Analyst (Hospital IT Service Desk)
 
 ---
 
-## 🎯 NEXT TARGET ROLE  
+## NEXT TARGET ROLE  
 Systems Administrator / Network Administrator
 
 ### Skills I am building for this role:
@@ -23,7 +23,7 @@ Systems Administrator / Network Administrator
 
 ---
 
-## 🎯 CYBERSECURITY GOAL  
+##  CYBERSECURITY GOAL  
 Cybersecurity Analyst → Security Engineer → Cloud Security Engineer (Blue + Red hybrid)
 
 ### Skills required that I will develop:
@@ -36,7 +36,7 @@ Cybersecurity Analyst → Security Engineer → Cloud Security Engineer (Blue + 
 
 ---
 
-## 🔧 HOW MY HOMELAB SUPPORTS THE PATH
+##  HOW MY HOMELAB SUPPORTS THE PATH
 - Provides real-world Windows, Linux, and network environments  
 - Allows me to perform both attacks and defenses safely  
 - Teaches enterprise monitoring, logging, and SIEM workflows  

@@ -4,7 +4,7 @@ This roadmap represents my long-term progression:
 
 **Help Desk → Systems Admin / Network Admin → Cybersecurity Analyst → Security Engineer → Cloud Security (Blue + Red hybrid)**
 
-## 🔹 CURRENT PHASE: Phase 1 – Homelab Foundations
+##  CURRENT PHASE: Phase 1 – Homelab Foundations
 - Set up virtualization environment (VirtualBox)
 - Create Windows 11 Victim VM
 - Create Kali Linux Attacker VM
@@ -12,7 +12,7 @@ This roadmap represents my long-term progression:
 - Verify connectivity between VMs
 - Begin documenting everything inside Obsidian
 
-## 🔹 UPCOMING PHASES
+##  UPCOMING PHASES
 ### **Phase 2 – Basic Offensive Skills**
 - Nmap fundamentals & port scanning
 - Service enumeration (SMB, RDP, SSH)

@@ -13,3 +13,9 @@ xfreerdp3 /v:<IP>
 /cert:ignore        # ignore certificate warnings in lab
 /size:1920x1080     # window size
 
+
+## RDP Enumeration
+sudo nmap -p3389 --script rdp-enum-encryption <IP>
+sudo nmap -p3389 --script rdp-ntlm-info <IP>
+(Also seen in [[#Nmap_Internal_Enum]])
+

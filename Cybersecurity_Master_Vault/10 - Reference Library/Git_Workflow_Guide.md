@@ -148,7 +148,7 @@ Obsidian Git handles this automatically when I click **Commit & Sync**, but know
 
 My SSH key is stored at:
 
-`C:\Users\<USERNAME>\.ssh\github_ed25519`
+`C:\Users\<USERNAME>\.ssh\<Key>`
 
 GitHub recognizes it under my account’s SSH keys.
 

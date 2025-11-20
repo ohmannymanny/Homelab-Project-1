@@ -30,7 +30,7 @@ This virtual machine serves as the victim workstation in my cybersecurity homela
 
 The Windows VM is intentionally isolated using a VirtualBox Host-Only Network. This limits communication to lab machines only and prevents any external exposure.
 
-- Windows IP Address: **192.168.56.105**
+- Windows IP Address: **192.168.X.Y**
     
 - Subnet: 255.255.255.0 (/24)
     

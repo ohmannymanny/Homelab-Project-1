@@ -7,28 +7,28 @@ This phase covers the offensive side of internal network security — the same t
 
 ## **Summary of Phase 1B Learning Objectives Achieved**
 
-### ✔ Internal host discovery
+###  Internal host discovery
 
-### ✔ ARP-based local scanning
+###  ARP-based local scanning
 
-### ✔ Service enumeration with Nmap
+###  Service enumeration with Nmap
 
-### ✔ RDP version and cipher enumeration
+###  RDP version and cipher enumeration
 
-### ✔ NTLM/NetBIOS data gathering
+###  NTLM/NetBIOS data gathering
 
-### ✔ Successful remote access into Windows 11 via RDP
+###  Successful remote access into Windows 11 via RDP
 
-### ✔ Mapping offensive techniques to real-world enterprise behavior
+###  Mapping offensive techniques to real-world enterprise behavior
 
 ## **Verify Internal Network Connectivity**
 
 **Goal:**  
 Confirm that Kali and Windows 11 are on the same VirtualBox Host-Only network.
 
-ip a              # Find Kali’s IP (eth1 →192.168.56.104)
-ipconfig          # Find Windows IP (→192.168.56.105)
-ping 192.168.56.105
+ip a              # Find Kali’s IP (eth1 →1192.168.X.X)
+ipconfig          # Find Windows IP (→1192.168.X.Y)
+ping 192.168.X.Y
 Result:**  
 Kali and Win11 VM can communicate — LAN is working.
 ## **Internal Host Discovery (arp-scan)**
@@ -53,7 +53,7 @@ sudo arp-scan --interface=eth1 192.168.56.0/24
 **Goal:**  
 Identify exposed services and services running on Windows 11.
 
-sudo nmap -sV 192.168.56.105
+sudo nmap -sV 192.168.X.Y
 
 **Findings:**
 
@@ -72,7 +72,7 @@ This mirrors internal enumeration during an Active Directory breach or lateral m
 ## **RDP-Specific Enumeration**
 
 ### Check RDP Encryption:
-sudo nmap -p3389 --script rdp-enum-encryption 192.168.56.105
+sudo nmap -p3389 --script rdp-enum-encryption 192.168.X.Y
 
 Findings:
 
@@ -84,7 +84,7 @@ Findings:
 
 ### Check NTLM & NetBIOS:
 
-`sudo nmap -p3389 --script rdp-ntlm-info 192.168.56.105`
+`sudo nmap -p3389 --script rdp-ntlm-info 192.168.X.Y`
 
 Findings:
 
@@ -105,7 +105,7 @@ Installed:
 
 Connected:
 
-`xfreerdp3 /v:192.168.56.105`
+`xfreerdp3 /v:192.168.X.Y`
 
 Results:
 

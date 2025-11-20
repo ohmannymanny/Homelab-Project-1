@@ -4,39 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6f4d9628de6b623f",
+        "id": "c9f46f3ce5666722",
         "type": "tabs",
         "children": [
           {
-            "id": "3f2936939965fc5d",
+            "id": "45d1843d2a06b1d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Cybersecurity_Master_Vault/01 - Homelab Setup/Windows11_VM_Setup.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20251119195523.png"
               },
-              "icon": "lucide-file",
-              "title": "Windows11_VM_Setup"
-            }
-          },
-          {
-            "id": "12ea3757141e11d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cybersecurity_Master_Vault/02 - Phase Documentation/Phase_1C.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Phase_1C"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251119195523"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cybersecurity_Master_Vault/02 - Phase Documentation/Phase_1C.md",
+                "file": "Pasted image 20251119195523.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Phase_1C"
+              "title": "Backlinks for Pasted image 20251119195523"
             }
           },
           {
@@ -128,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cybersecurity_Master_Vault/02 - Phase Documentation/Phase_1C.md",
+                "file": "Pasted image 20251119195523.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Phase_1C"
+              "title": "Outgoing links from Pasted image 20251119195523"
             }
           },
           {
@@ -171,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cybersecurity_Master_Vault/02 - Phase Documentation/Phase_1C.md",
+                "file": "Pasted image 20251119195523.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Phase_1C"
+              "title": "Outline of Pasted image 20251119195523"
             }
           },
           {
@@ -212,18 +195,26 @@
   "active": "379845380e448620",
   "lastOpenFiles": [
     "Cybersecurity_Master_Vault/02 - Phase Documentation/Phase_1B.md",
+    "Pasted image 20251119195523.png",
+    "Pasted image 20251119195523.png",
+    "Cybersecurity_Master_Vault/02 - Phase Documentation/Phase_1A.md",
+    "Cybersecurity-Master-Vault/README.md",
+    "Cybersecurity_Master_Vault/00 - Roadmap (Baseline)/Baseline_Roadmap.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2025-11-19.md",
+    "Cybersecurity_Master_Vault/10 - Reference Library/RDP_Remote_Access.md",
+    "Cybersecurity_Master_Vault/10 - Reference Library/Nmap_Internal_Enum.md",
+    "Cybersecurity_Master_Vault/10 - Reference Library/Linux_Commands.md",
+    "Cybersecurity_Master_Vault/10 - Reference Library/Git_Workflow_Guide.md",
+    "Cybersecurity_Master_Vault/09 - Daily Logs/README.md",
     "Cybersecurity_Master_Vault/02 - Phase Documentation/Phase_1C.md",
     "Cybersecurity_Master_Vault/01 - Homelab Setup/Windows11_VM_Setup.md",
     "Cybersecurity_Master_Vault/01 - Homelab Setup/Kali_VM_Setup.md",
-    "Cybersecurity_Master_Vault/10 - Reference Library/RDP_Remote_Access.md",
-    "Cybersecurity_Master_Vault/10 - Reference Library/Nmap_Internal_Enum.md",
-    "Pasted image 20251119195523.png",
-    "Cybersecurity_Master_Vault/02 - Phase Documentation/Phase_1A.md",
-    "Cybersecurity_Master_Vault/10 - Reference Library/Git_Workflow_Guide.md",
+    "Cybersecurity_Master_Vault/00 - Roadmap (Baseline)/Career_Path.md",
+    "Cybersecurity-Master-Vault",
     "Cybersecurity_Master_Vault/10 - Reference Library/Git_Workflow_Guide",
     "Cybersecurity_Master_Vault/02 - Phase Documentation/Phase_1A.md.md",
-    "Cybersecurity_Master_Vault/00 - Roadmap (Baseline)/Baseline_Roadmap.md",
-    "Cybersecurity_Master_Vault/00 - Roadmap (Baseline)/Career_Path.md",
     "Cybersecurity_Master_Vault.rar",
     "Cybersecurity_Master_Vault/17 - Project Labs/Home Network Projects",
     "Cybersecurity_Master_Vault/17 - Project Labs/HackTheBox Intergration",
@@ -231,9 +222,6 @@
     "Cybersecurity_Master_Vault/17 - Project Labs/Honeypot_Lab",
     "Cybersecurity_Master_Vault/17 - Project Labs/Active_Directory_Lab",
     "Cybersecurity_Master_Vault/17 - Project Labs",
-    "Cybersecurity_Master_Vault/16 - Scripts Library",
-    "Cybersecurity_Master_Vault/15 - Red Team Techniques",
-    "Cybersecurity_Master_Vault/10 - Reference Library/Linux_Commands.md",
-    "Cybersecurity_Master_Vault/09 - Daily Logs/README.md"
+    "Cybersecurity_Master_Vault/16 - Scripts Library"
   ]
 }

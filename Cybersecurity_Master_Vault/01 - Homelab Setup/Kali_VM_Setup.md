@@ -17,7 +17,7 @@ This Kali Linux VM functions as the attacker workstation. I will use it to learn
 
 The Kali VM is configured to communicate only with other machines in the lab, not the internet (except when required for updates).
 
-- Kali IP Address: **192.168.56.104**
+- Kali IP Address: **192.168.X.X**
     
 - Subnet: 255.255.255.0 (/24)
     
