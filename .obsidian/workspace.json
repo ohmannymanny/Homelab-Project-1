@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Reference Library/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -196,6 +196,7 @@
   },
   "active": "6a892b54fb180c8c",
   "lastOpenFiles": [
+    "00 - Roadmap (Baseline)/README.md",
     "README.md",
     "10 - Reference Library/README.md",
     "Cybersecurity_Master_Vault/10 - Reference Library/RDP_Remote_Access.md",
@@ -217,7 +218,6 @@
     "01 - Homelab Setup/Kali_VM_Setup.md",
     "01 - Homelab Setup",
     "00 - Roadmap (Baseline)/Baseline_Roadmap.md",
-    "00 - Roadmap (Baseline)/README.md",
     "00 - Roadmap (Baseline)/Career_Path.md",
     "00 - Roadmap (Baseline)",
     "17 - Project Labs/Malware Analysis Lab",
